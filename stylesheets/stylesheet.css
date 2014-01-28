@@ -367,6 +367,23 @@ Full-Width Styles
 }
 
 
+/*****************************************
+Custom
+***************************************/
+ul.list-of-posts{list-style:none;}
+.index-post-date {
+	display:inline-block;
+	width:6em;
+	text-align:right;
+	margin-right:2em;	
+}
+#page-navigation {clear:all;text-align:center;}
+#page-navigation div.left {float:left;}
+#page-navigation div.right {float:right;}
+div.pagination {text-align:center}
+div.pagination .page_number {}
+div.pagination .previous{float:right;}
+div.pagination .next{float:left;}
 
 /*******************************************************************************
 Small Device Styles
