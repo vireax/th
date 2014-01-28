@@ -1,0 +1,6 @@
+name: NeoScribe (th)
+pygments: true
+relative_permalinks: true
+permalink: /:year-:month-:day-:title.html
+baseurl: /th
+paginate: 20
